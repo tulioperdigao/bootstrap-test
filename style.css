@@ -9,6 +9,10 @@
     --bs-btn-active-border-color: #0f5333;
 }
 
+main {
+    margin-top: 5rem;
+}
+
 .navbar-brand img{
     width: 50px;
 }
