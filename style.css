@@ -44,3 +44,7 @@ main {
 .position-img-bottom {
     object-position: bottom;
 }
+
+.modal-body iframe {
+    width: 100%;
+}
